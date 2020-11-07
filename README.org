@@ -1,4 +1,3 @@
-#+TITLE: Readme
 #+AUTHOR: Hisbaan Noorani
 
 * Hi! I'm Hisbaan
