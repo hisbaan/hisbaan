@@ -7,11 +7,10 @@ I'm a computer science student at the University of Toronto who is passionate ab
 
 ## Connect with me:
 
-[<img align="left" alt="hisbaan.com" width="22px" style="color: white;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hisbaan.com" width="22px" style="color: white;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hisbaan.com | Articles" width="22px" style="color: white;" src="" />][website]
-[<img align="left" alt="HisbaanNoorani | Twitter" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hisbaan Noorani | LinkedIn" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hisbaan.com" width="22px" style="background-color: white;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="hisbaan.com | Articles" width="22px" style="background-color: white;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/align-left.svg" />][articles]
+[<img align="left" alt="HisbaanNoorani | Twitter" width="22px" style="background-color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Hisbaan Noorani | LinkedIn" width="22px" style="background-color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!-- variables -->
 [website]: https://hisbaan.com
